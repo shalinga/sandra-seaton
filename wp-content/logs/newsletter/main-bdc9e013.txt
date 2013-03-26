@@ -1,0 +1,23 @@
+26-03-2013 11:59:51 - ERROR - 28873552 - Can't DROP 'name'; check that column/key exists
+26-03-2013 11:59:52 - ERROR - 28874312 - Table 'sandra-seaton.wp_newsletter' doesn't exist
+26-03-2013 11:59:52 - ERROR - 28875032 - Table 'sandra-seaton.wp_newsletter' doesn't exist
+26-03-2013 12:00:01 - ERROR - 29493544 - Duplicate column name 'message'
+26-03-2013 12:00:01 - ERROR - 29494304 - Duplicate column name 'message_text'
+26-03-2013 12:00:01 - ERROR - 29495088 - Duplicate column name 'subject'
+26-03-2013 12:00:01 - ERROR - 29495832 - Duplicate column name 'type'
+26-03-2013 12:00:01 - ERROR - 29496632 - Duplicate column name 'created'
+26-03-2013 12:00:01 - ERROR - 29497432 - Duplicate column name 'status'
+26-03-2013 12:00:01 - ERROR - 29498104 - Duplicate column name 'total'
+26-03-2013 12:00:01 - ERROR - 29498856 - Duplicate column name 'last_id'
+26-03-2013 12:00:01 - ERROR - 29499704 - Duplicate column name 'sent'
+26-03-2013 12:00:01 - ERROR - 29500464 - Duplicate column name 'send_on'
+26-03-2013 12:00:01 - ERROR - 29501208 - Duplicate column name 'track'
+26-03-2013 12:00:01 - ERROR - 29501952 - Duplicate column name 'editor'
+26-03-2013 12:00:01 - ERROR - 29502712 - Duplicate column name 'sex'
+26-03-2013 12:00:01 - ERROR - 29503440 - Duplicate column name 'query'
+26-03-2013 12:00:01 - ERROR - 29504200 - Duplicate column name 'preferences'
+26-03-2013 12:00:01 - ERROR - 29504920 - Duplicate column name 'options'
+26-03-2013 12:00:01 - ERROR - 29505648 - Can't DROP 'name'; check that column/key exists
+26-03-2013 12:05:40 - ERROR - 23126320 - Blocked by transient newsletter_main_engine set 91 seconds ago
+26-03-2013 15:45:36 - ERROR - 23282032 - Blocked by transient newsletter_main_engine set 69 seconds ago
+26-03-2013 15:55:42 - ERROR - 23282312 - Blocked by transient newsletter_main_engine set 233 seconds ago

@@ -1,0 +1,14 @@
+26-03-2013 12:00:00 - ERROR - 29458320 - Table 'sandra-seaton.wp_newsletter_stats' doesn't exist
+26-03-2013 12:00:00 - ERROR - 29459104 - Table 'sandra-seaton.wp_newsletter_stats' doesn't exist
+26-03-2013 12:00:00 - ERROR - 29459912 - Table 'sandra-seaton.wp_newsletter_stats' doesn't exist
+26-03-2013 12:00:00 - ERROR - 29460640 - Duplicate column name 'user_id'
+26-03-2013 12:00:01 - ERROR - 29551520 - Unknown column 'newsletter_id' in 'wp_newsletter_stats'
+26-03-2013 12:00:01 - ERROR - 29552304 - Unknown column 'newsletter_id' in 'wp_newsletter_stats'
+26-03-2013 12:00:01 - ERROR - 29553096 - Unknown column 'date' in 'wp_newsletter_stats'
+26-03-2013 12:00:01 - ERROR - 29553696 - Duplicate column name 'user_id'
+26-03-2013 12:00:01 - ERROR - 29554464 - Duplicate column name 'email_id'
+26-03-2013 12:00:01 - ERROR - 29555192 - Duplicate column name 'link_id'
+26-03-2013 12:00:01 - ERROR - 29555936 - Duplicate column name 'user_id'
+26-03-2013 12:00:01 - ERROR - 29556736 - Duplicate column name 'created'
+26-03-2013 12:00:01 - ERROR - 29557448 - Duplicate column name 'url'
+26-03-2013 12:00:01 - ERROR - 29558216 - Duplicate column name 'anchor'
